@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Sara Hasan 👋
 
-<!--
-**sarahasan5/sarahasan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Computer Engineering Student at the University of Memphis passionate about building software, mobile applications, and embedded systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.S. in Electrical & Computer Engineering  
+📚 Second Major in Mathematical Sciences  
+🏅 Dean's List (2024–2026)  
+📱 Flutter & Firebase Developer  
+⚡ Embedded Systems & IoT Enthusiast  
+💡 Always learning and building new projects
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- Python
+- C
+- C++
+- SQL
+- Arduino
+- MATLAB
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+- 📱 Task Tutor
+- 🔥 Smart Fire Safety System
+- 🖥️ Wireless Hub POS System
+- 🎮 Arduino Pong Game
+
+## 🌱 Currently Learning
+
+- Spring Boot
+- PostgreSQL
+- Software Architecture
+- Clean Architecture
+
+## 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/sara-hasan9
+- Email: sarah1601hasan@gmail.com
