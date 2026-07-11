@@ -1,9 +1,8 @@
-# Hi there, I'm Sara Hasan 👋
+# Hi there, I'm Sara Hasan👋
 
 Electrical & Computer Engineering Student at the University of Memphis passionate about building software, mobile applications, and embedded systems that solve real-world problems.
 
 ## 👩‍💻 About Me
-
 🎓 B.S. in Electrical & Computer Engineering  
 📚 Second Major in Mathematical Sciences  
 🏅 Dean's List (2024–2026)  
@@ -11,34 +10,35 @@ Electrical & Computer Engineering Student at the University of Memphis passionat
 ⚡ Embedded Systems & IoT Enthusiast  
 💡 Always learning and building new projects
 
-## 🛠️ Tech Stack
 
-- Flutter
-- Dart
-- Firebase
-- Python
-- C
-- C++
-- SQL
-- Arduino
-- MATLAB
-- Git & GitHub
+## 🛠️ Tech Stack
+Languages
+C • C++ • Dart • Python • SQL
+
+Frameworks
+Flutter • Firebase
+
+Embedded
+Arduino • IoT
+
+Tools
+Git • GitHub • MATLAB
+
 
 ## 🚀 Featured Projects
+📱 Task Tutor
+Student productivity application featuring task management, GPA calculator, discussion forum, Google Sign-In, and Firebase backend.
 
-- 📱 Task Tutor
-- 🔥 Smart Fire Safety System
-- 🖥️ Wireless Hub POS System
-- 🎮 Arduino Pong Game
+🔥 Smart Fire Safety System
+Arduino-based IoT system that detects fire hazards and automatically triggers alarms and emergency door control.
 
-## 🌱 Currently Learning
+🖥 Wireless Hub POS
+Python-based point-of-sale system with receipts, inventory tracking, shift reports, and invoice management.
 
-- Spring Boot
-- PostgreSQL
-- Software Architecture
-- Clean Architecture
+🎮 Arduino Pong
+Two-player Pong game developed on Arduino using C.
+
 
 ## 📫 Connect with Me
-
 - LinkedIn: linkedin.com/in/sara-hasan9
 - Email: sarah1601hasan@gmail.com
